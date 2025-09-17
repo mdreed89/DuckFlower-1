@@ -1,0 +1,14 @@
+/Users/q1727/workspace/DuckFlowerApp/bin/Debug/net9.0/DuckFlowerApp
+/Users/q1727/workspace/DuckFlowerApp/bin/Debug/net9.0/DuckFlowerApp.deps.json
+/Users/q1727/workspace/DuckFlowerApp/bin/Debug/net9.0/DuckFlowerApp.runtimeconfig.json
+/Users/q1727/workspace/DuckFlowerApp/bin/Debug/net9.0/DuckFlowerApp.dll
+/Users/q1727/workspace/DuckFlowerApp/bin/Debug/net9.0/DuckFlowerApp.pdb
+/Users/q1727/workspace/DuckFlowerApp/obj/Debug/net9.0/DuckFlowerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/q1727/workspace/DuckFlowerApp/obj/Debug/net9.0/DuckFlowerApp.AssemblyInfoInputs.cache
+/Users/q1727/workspace/DuckFlowerApp/obj/Debug/net9.0/DuckFlowerApp.AssemblyInfo.cs
+/Users/q1727/workspace/DuckFlowerApp/obj/Debug/net9.0/DuckFlowerApp.csproj.CoreCompileInputs.cache
+/Users/q1727/workspace/DuckFlowerApp/obj/Debug/net9.0/DuckFlowerApp.dll
+/Users/q1727/workspace/DuckFlowerApp/obj/Debug/net9.0/refint/DuckFlowerApp.dll
+/Users/q1727/workspace/DuckFlowerApp/obj/Debug/net9.0/DuckFlowerApp.pdb
+/Users/q1727/workspace/DuckFlowerApp/obj/Debug/net9.0/DuckFlowerApp.genruntimeconfig.cache
+/Users/q1727/workspace/DuckFlowerApp/obj/Debug/net9.0/ref/DuckFlowerApp.dll
