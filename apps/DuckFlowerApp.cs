@@ -50,10 +50,7 @@ public static class DuckFlowerApp
     {
         for (int i = 1; i <= 100; i++)
         {
-        if (i % 3 == 0 && i % 5 == 0) Console.WriteLine("DuckFlower");
-        else if (i % 3 == 0) Console.WriteLine("Duck");
-        else if (i % 5 == 0) Console.WriteLine("Flower");
-        else Console.WriteLine(i);
+            ReturnDuckFlowerValue(i);
         }
     }
 
